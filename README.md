@@ -12,3 +12,7 @@ The Adventure Works dataset is provided by Microsoft (documentation can be found
   - 4 KPIs analysed: Revenue, Profit, Avg. Order Value (AOV) & No. Orders
   - Dynamic charts: each chart adapts to the parameter selected (Year, Selected KPI, Order Type, State)
   - YoY Change: both the KPI display as well as the Category & Subcategory charts indicate YoY Change. States Map & Top 5 States List also displays this information in toolbars.
+
+## Product Categories & Subcategories
+The product category and subcategory charts dynamically change based on the parameter selected. Here I am manipulating the Selected KPI (Revenue, Profit, AOV, No. Orders) and Order Type (Online, Store). The chart also responds to changes in Selected Year & State.
+![Interactive Product Category & Subcategory Charts](https://github.com/gircyte/AW-Executive-Dashboard/blob/main/Dynamic%20Product%20Categories%20and%20Subcategories.gif?raw=true)
