@@ -24,5 +24,5 @@ The product category and subcategory charts dynamically change based on the para
 The black line indicates previous year's performance based on the parameter selected. The top category/subcategory is also highlighted.
 
 **INSIGHTS**:
-  - The highlighted top category/subcategory lets the shareholders easily see what is performing the best based on the selected parameters
-  - The black bar indicating previous year's performance allows for clear identification of potentially problematic areas within categories and subcategories
+  - The highlighted top category/subcategory lets the shareholders easily see what is performing the best based on the selected parameters.
+  - The black bar indicating previous year's performance allows for clear identification of potentially problematic or efficient areas within categories and subcategories.
