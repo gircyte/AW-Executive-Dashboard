@@ -53,3 +53,11 @@ Both the state coloring & the bubble size in the map graph indicate the selected
 **INSIGHTS**:
  - It's helpful to have the map graphically display best performing states, depending on the selected KPI and the order type. It's easy to make visual comparisons when cycling through parameters.
  - The list is there if more detailed information is needed, like states ranking or exact KPI numbers.
+
+## Informative Graph Tooltips
+
+![Dashboard Tooltips](https://github.com/gircyte/AW-Executive-Dashboard/blob/main/Dashboard%20Tooltips.png?raw=true)
+
+**INSIGHTS**:
+ - If at any point more specific information is required, each graph has informative as well as dynamic tooltips attached to them which indicate the selected parameters & filters as well as the YoY change.
+ - In the graph above you can see that the state selected is Texas, that the category we're looking at is Bikes, that both order types are combined in the graph here, the exact revenue of 2003, and the change in percentage from previous year's revenue.
