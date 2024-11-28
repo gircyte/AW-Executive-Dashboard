@@ -41,3 +41,15 @@ The black line indicates previous year's performance based on the parameter sele
 **INSIGHTS**:
   - The highlighted top category/subcategory lets the shareholders easily see what is performing the best based on the selected parameters.
   - The black bar indicating previous year's performance allows for clear identification of potentially problematic or efficient areas within categories and subcategories.
+
+## States Map & List
+
+The US States Map & List dynamically responds to the Selected KPI and Order Type parameters, which is what I'm manipulating in the demonstration below.
+
+![Interactive US States Map & List](https://github.com/gircyte/AW-Executive-Dashboard/blob/main/Dynamic%20States%20Map%20and%20List.gif?raw=true)
+
+Both the state coloring & the bubble size in the map graph indicate the selected KPI's performance.
+
+**INSIGHTS**:
+ - It's helpful to have the map graphically display best performing states, depending on the selected KPI and the order type.
+ - The list is there if more detailed information is needed, like states ranking or exact KPI numbers.
