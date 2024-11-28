@@ -13,9 +13,22 @@ The Adventure Works dataset is provided by Microsoft (documentation can be found
 
 **DETAILS**:
   - Data range: 2001 Jul - 2004 Jun
-  - 4 KPIs analysed: Revenue, Profit, Avg. Order Value (AOV) & No. Orders
+  - 4 global KPIs analysed: Revenue, Profit, Avg. Order Value (AOV) & No. Orders
   - Dynamic charts: each chart adapts to the parameter selected (Year, Selected KPI, Order Type, State)
   - YoY Change: both the KPI display as well as the Category & Subcategory charts indicate YoY Change. States Map & Top 5 States List also displays this information in toolbars.
+
+## Dashboard Parameters & Filters
+
+![Dashboard Parameters & Filters](https://github.com/gircyte/AW-Executive-Dashboard/blob/main/Dashboard%20Parameters%20&%20Filters.png?raw=true)
+
+**INSIGHTS**
+ - There are 3 parameters & 1 filter that have been encorporated into the dashboard for dynamic visualisation viewing:
+   - Year
+   - KPI
+   - Order Type
+   - State
+ - It provides the stakeholders & department employees with the ability to easily "zoom-in" into relevant areas, e.g. to see what were the most popular product categories in Washington state's online market last year.
+ - Such detailed functionality allows to pinpoint possible problem or effective areas with precision.
 
 ## Product Categories & Subcategories
 
