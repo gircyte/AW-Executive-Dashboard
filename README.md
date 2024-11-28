@@ -27,7 +27,7 @@ The Adventure Works dataset is provided by Microsoft (documentation can be found
    - KPI
    - Order Type
    - State
- - It provides the stakeholders & department employees with the ability to easily "zoom-in" into relevant areas, e.g. to see what were the most popular product categories in Washington state's online market last year.
+ - It provides the stakeholders & department employees with the ability to easily "zoom-in" into relevant areas, e.g. to see which product categories in Washington state's online market last year brought in the most revenue or were most profitable.
  - Such detailed functionality allows to pinpoint possible problem or effective areas with precision.
 
 ## Product Categories & Subcategories
