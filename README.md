@@ -9,7 +9,7 @@ The Adventure Works dataset is provided by Microsoft (documentation can be found
 ## About Project
 
 **GOAL**: visualise associated sales and product data in order to draw insights on how well individual US states are performing & offer data-driven recommendations on future operations within specific US states.  
-**LINK TO DASHBOARD**: [Adventure Works Executive Summary Dashboard](https://public.tableau.com/shared/3K29Q2YM5?:display_count=n&:origin=viz_share_link)
+**LINK TO DASHBOARD**: [Adventure Works Executive Summary Dashboard](https://public.tableau.com/views/Sprint2_2TableauProject/AWDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **DETAILS**:
   - Data range: 2001 Jul - 2004 Jun
