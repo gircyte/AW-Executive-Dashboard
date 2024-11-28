@@ -15,7 +15,7 @@ The Adventure Works dataset is provided by Microsoft (documentation can be found
   - Data range: 2001 Jul - 2004 Jun
   - 4 global KPIs analysed: Revenue, Profit, Avg. Order Value (AOV) & No. Orders
   - Dynamic charts: each chart adapts to the parameter selected (Year, Selected KPI, Order Type, State)
-  - YoY Change: both the KPI display as well as the Category & Subcategory charts indicate YoY Change. States Map & Top 5 States List also displays this information in toolbars.
+  - YoY Change: both the KPI display as well as the Category & Subcategory charts indicate YoY Change. States Map & Top 5 States List also displays this information in tooltips.
 
 ## Dashboard Parameters & Filters
 
