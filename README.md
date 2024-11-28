@@ -22,7 +22,7 @@ The Adventure Works dataset is provided by Microsoft (documentation can be found
 ![Dashboard Parameters & Filters](https://github.com/gircyte/AW-Executive-Dashboard/blob/main/Dashboard%20Parameters%20&%20Filters.png?raw=true)
 
 **INSIGHTS**
- - There are 3 parameters & 1 filter that have been encorporated into the dashboard for dynamic visualisation viewing:
+ - There are 3 parameters & 1 filter that have been encorporated into the dashboard for a dynamic visualisation viewing:
    - Year
    - KPI
    - Order Type
